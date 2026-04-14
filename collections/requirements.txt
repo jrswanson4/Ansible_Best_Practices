@@ -1,0 +1,8 @@
+---
+collections:
+
+- name: example_collection
+  source: https://galaxy.ansible.com/
+
+- name: example_collection_two
+  source: https://galaxy.ansible.com/
