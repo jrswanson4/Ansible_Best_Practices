@@ -1,0 +1,5 @@
+[Webserver]
+fqdn.apache.Webserver
+
+[Database]
+fqdn.database.server

@@ -1,0 +1,4 @@
+---
+- name: Print a Message
+  Ansible.builtin.debug:
+    var: example_var 
