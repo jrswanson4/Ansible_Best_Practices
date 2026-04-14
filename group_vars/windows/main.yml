@@ -1,0 +1,3 @@
+---
+ansible_os: windows
+ansible_os_version: 11
