@@ -1,4 +1,4 @@
-# Ansible_Best_Practices
+# Ansible Best Practices
 ---------------
 This repo is an introduction to ansible repo structure and ansible development best practices
 
