@@ -129,3 +129,9 @@ $ ansible-galaxy install -r requirements.yml
 ```
 
 Running `ansible-galaxy collection install -r` or `ansible-galaxy role install -r` will only install collections, or roles, respectively.
+
+
+## Documentation
+
+1. [Ansible Collection receommendations](https://redhat-cop.github.io/automation-good-practices/#_collections_good_practices)
+
