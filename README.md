@@ -33,9 +33,36 @@ This is a collection of documentation for Ansible playbook development best prac
 
 12. [Variable types and Ansible facts](https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_vars_facts.html)
 
-13. []
+13. [Ansible Role Development](https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_reuse_roles.html)
 
 
 
 
 # Ansible Automation Platform Documentation
+
+1. [Overall AAP documentation](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/)
+
+2. [Custom TLS Certification documentation ](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/containerized_installation/advanced-configuration-containerized#using-custom-tls-certificates)
+
+3. [Changing SSL Cert Keys](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/operating_ansible_automation_platform/changing-ssl-certs-keys)
+
+4. [Network Port Protocols](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/operating_ansible_automation_platform/changing-ssl-certs-keys)
+
+5. [Automation Controller API Guide](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/automation_execution_api_overview/index)
+
+6. [Automation Hub API Guide](https://developers.redhat.com/api-catalog/api/automation-hub?extIdCarryOver=true&intcmp=7015Y000003t7aWQAQ&sc_cid=RHCTN0250000469722)
+
+
+# Testing/Linting
+
+1. [Ansible Lint](https://docs.ansible.com/projects/lint/)
+
+2. [Ansible Lint Setup Guide](https://docs.ansible.com/projects/lint/installing/)
+
+3. [Ansible Molecule](https://docs.ansible.com/projects/molecule/)
+
+# Examples/Learning Activities
+
+1. [Advanced Ansible Development](https://github.com/binbashroot/advanced_ansible)
+
+2. [AAP and Configuration as Code](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform)
