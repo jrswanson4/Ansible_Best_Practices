@@ -1,0 +1,16 @@
+version: 1
+
+images:
+  base_image:
+    name: registry.redhat.io/ansible-automation-platform-26/ee-supported-rhel9:latest
+
+dependancies: 
+  ansible_core: 
+    package_pip: ansible-core==2.16
+  ansible_runner:
+    package_pip: ansible-runner
+  galaxy: requirements.yml
+  
+  
+
+
