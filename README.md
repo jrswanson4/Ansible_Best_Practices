@@ -61,6 +61,8 @@ This is a collection of documentation for Ansible playbook development best prac
 
 3. [Ansible Molecule](https://docs.ansible.com/projects/molecule/)
 
+4. [Ansible Molecule Setup Guide](https://docs.ansible.com/projects/molecule/installation/)
+
 # Examples/Learning Activities
 
 1. [Advanced Ansible Development](https://github.com/binbashroot/advanced_ansible)

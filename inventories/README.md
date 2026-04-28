@@ -55,3 +55,7 @@ ansible_become_method=enable
 ansible_network_os=ios
 ansible_connection=network_cli
 ```
+
+## Inventory Documentation
+
+1. [Inventory good practices](https://redhat-cop.github.io/automation-good-practices/#_inventories_and_variables_good_practices_for_ansible)
