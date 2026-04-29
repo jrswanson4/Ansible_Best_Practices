@@ -21,7 +21,7 @@ To begin with this guide, please first install wsl and vs code
 ```pipx install ansible-lint```
 
 5. Ensure proper pathing for ansible-lint
-```pipx ensurepath``
+```pipx ensurepath```
 
 6. Please swap over to your VScode now
 
